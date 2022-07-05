@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+input {
+  padding: 15px;
+  font-size: 1.2em;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(237, 149, 62);
+  margin: 5px;
+  cursor: pointer;
+}
+
+button {
+  padding: 15px;
+  font-size: 1.2em;
+  color: whitesmoke;
+  border-radius: 10px;
+  background-color: rgb(216, 35, 107);
+  margin: 10px;
+}
+
+h2 {
+  padding: 15px;
+  background-color: gold;
+}
+
+section {
+  display: flex;
+}
